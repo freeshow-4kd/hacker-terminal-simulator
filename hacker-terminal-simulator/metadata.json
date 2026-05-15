@@ -1,0 +1,6 @@
+{
+  "name": "Hacker Terminal Simulator",
+  "description": "A cinematic hacker terminal simulator with cyberpunk aesthetics, featuring a responsive UI, simulated terminal output, and CRT visual effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
